@@ -1,0 +1,10 @@
+body {
+	font-family: 'microsoft yahei';
+}
+#login-avatar {
+	border:1px solid #555;
+	width: 30px;
+}
+.page-header {
+	margin-top: 80px;
+}
